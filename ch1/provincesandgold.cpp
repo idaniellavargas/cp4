@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-    freopen("in.txt", "r", stdin);
-    freopen("out.txt", "w", stdout);
     int g, s, c;
     cin >> g >> s >> c;
     g *= 3;
